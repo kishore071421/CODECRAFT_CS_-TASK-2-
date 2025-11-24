@@ -144,3 +144,7 @@ Output directory auto-created
 ✔ Optional NumPy acceleration
 ✔ Supports very large images
 ✔ Perfect for cybersecurity projects, cryptography learning, or steganography pipelines
+
+🏆 Author
+B Bharath kishore
+This project is developed as part of internship task requirements.
